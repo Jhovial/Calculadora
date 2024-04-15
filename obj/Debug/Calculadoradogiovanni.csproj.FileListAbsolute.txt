@@ -1,0 +1,10 @@
+C:\Users\giovanni.mlima3\source\repos\Calculadoradogiovanni\bin\Debug\Calculadoradogiovanni.exe.config
+C:\Users\giovanni.mlima3\source\repos\Calculadoradogiovanni\bin\Debug\Calculadoradogiovanni.exe
+C:\Users\giovanni.mlima3\source\repos\Calculadoradogiovanni\bin\Debug\Calculadoradogiovanni.pdb
+C:\Users\giovanni.mlima3\source\repos\Calculadoradogiovanni\obj\Debug\Calculadoradogiovanni.csproj.AssemblyReference.cache
+C:\Users\giovanni.mlima3\source\repos\Calculadoradogiovanni\obj\Debug\Calculadoradogiovanni.Properties.Resources.resources
+C:\Users\giovanni.mlima3\source\repos\Calculadoradogiovanni\obj\Debug\Calculadoradogiovanni.csproj.GenerateResource.cache
+C:\Users\giovanni.mlima3\source\repos\Calculadoradogiovanni\obj\Debug\Calculadoradogiovanni.csproj.CoreCompileInputs.cache
+C:\Users\giovanni.mlima3\source\repos\Calculadoradogiovanni\obj\Debug\Calculadoradogiovanni.exe
+C:\Users\giovanni.mlima3\source\repos\Calculadoradogiovanni\obj\Debug\Calculadoradogiovanni.pdb
+C:\Users\giovanni.mlima3\source\repos\Calculadoradogiovanni\obj\Debug\Calculadoradogiovanni.textBoxDisplay.resources
